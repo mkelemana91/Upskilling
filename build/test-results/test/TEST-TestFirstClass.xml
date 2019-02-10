@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="TestFirstClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-10T15:41:40" hostname="LAPTOP-Q07ABJPL" time="31.24">
+<testsuite name="TestFirstClass" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-02-10T16:21:13" hostname="LAPTOP-Q07ABJPL" time="104.59">
   <properties/>
-  <testcase name="launchBrowser" classname="TestFirstClass" time="31.24"/>
+  <testcase name="launchBrowser" classname="TestFirstClass" time="104.59"/>
   <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 19101
+  <system-err><![CDATA[Starting ChromeDriver 2.46.628402 (536cd7adbad73a3783fdc2cab92ab2ba7ec361e1) on port 8902
 Only local connections are allowed.
 Please protect ports used by ChromeDriver and related test frameworks to prevent access by malicious code.
-Feb 10, 2019 5:41:58 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+[1549815735.945][WARNING]: Timed out connecting to Chrome, retrying...
+Feb 10, 2019 6:22:29 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: OSS
 ]]></system-err>
 </testsuite>

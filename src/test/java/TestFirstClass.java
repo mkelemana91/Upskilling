@@ -1,12 +1,13 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class TestFirstClass {
 
 
-    WebDriver driver;// = new ChromeDriver();
+    RemoteWebDriver driver;// = new ChromeDriver();
 
     @Test
     public void launchBrowser(){
